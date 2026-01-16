@@ -1,6 +1,13 @@
+# virtual environments
 venv/
 .env
+
+# python cache
 __pycache__/
-chroma/
-*.sqlite
 .ipynb_checkpoints/
+
+# vector databases / embeddings
+vector_store/
+chroma/
+*.faiss
+*.sqlite
