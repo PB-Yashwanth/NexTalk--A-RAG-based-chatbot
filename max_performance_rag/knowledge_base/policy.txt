@@ -1,0 +1,20 @@
+NexTalk Refund Policy (Test Document)
+
+1) Refund window
+Customers can request a refund within 14 calendar days of the purchase date.
+
+2) Eligibility
+A refund is eligible only if:
+- The customer provides the order ID or receipt
+- The subscription has not exceeded 20% of the plan usage OR 7 days of usage (whichever comes first)
+
+3) Non-refundable items
+- One-time setup fees are non-refundable
+- Custom development work is non-refundable
+
+4) How to request a refund
+Email: refunds@nextalk.com
+Include: full name, order ID, reason for refund.
+
+5) Processing time
+Approved refunds are processed within 5–7 business days to the original payment method.
